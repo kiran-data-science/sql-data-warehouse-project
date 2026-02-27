@@ -23,9 +23,7 @@ Key components include:
 The project follows the **Medallion Architecture** consisting of three layers:
 
 ![Data Architecture](docs/data_architecture.png)
-<p align="center">
-  <img src="docs/data_architecture.png" width="900">
-</p>
+
 
 ### Bronze Layer
 - Stores raw data ingested from CSV source systems.
