@@ -140,4 +140,4 @@ I am actively developing portfolio projects that demonstrate end-to-end data ana
 
 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/kiran-j-dataanalyst
-- GitHub: 
+- GitHub: https://github.com/kiran-data-science
